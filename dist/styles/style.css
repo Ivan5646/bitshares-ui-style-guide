@@ -64295,7 +64295,7 @@ body.darkTheme .ant-select-arrow .ant-select-arrow-icon::after {
     border: 6px solid transparent;
     border-color: #6d6d6d transparent transparent transparent;
     pointer-events: none;
-    // transition: transform .3s;
+    /* transition: transform .3s; */
 }
 body.darkTheme .ant-select-open .ant-select-arrow-icon::after {
     top: -4px;
