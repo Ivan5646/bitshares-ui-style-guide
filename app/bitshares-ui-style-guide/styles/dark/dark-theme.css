@@ -1237,8 +1237,9 @@ mark {
   color: #fe8c00;
 }
 .ant-alert-error {
-  background-color: #faeef0;
-  border: 1px solid #ffaba0;
+    border: 1px solid #F44336;
+    background-color: #2a2a2a;
+    margin-bottom: 20px;
 }
 .ant-alert-error .ant-alert-icon {
   color: #d0021c;
@@ -1289,7 +1290,7 @@ mark {
 .ant-alert-with-description .ant-alert-message {
   display: block;
   margin-bottom: 4px;
-  color: #333;
+  color: #ee4437;
   font-size: 16px;
 }
 .ant-alert-with-description .ant-alert-description {
@@ -19336,7 +19337,7 @@ button.ant-switch.ant-switch-checked:after {
   border-color: #262626;
 }
 .ant-alert .ant-alert-message {
-  color: #333;
+  color: #ee4437;
   font-weight: 500;
 }
 .ant-notification-notice {
